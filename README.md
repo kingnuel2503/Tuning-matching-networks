@@ -29,3 +29,21 @@ You can observe an improved performance in the return loss and insertion loss
 <img width="718" height="421" alt="image" src="https://github.com/user-attachments/assets/b3caae88-adc1-4ebf-86ab-205c1149b566" />
 
 <img width="624" height="347" alt="image" src="https://github.com/user-attachments/assets/40f5681b-3788-4eff-ae21-88bcc811ee1d" />
+
+## Second Circuit
+For the second design, the  lengths and distance from stub to open circuits are obtained as 0.369 λ and 0.148 λ respectively
+
+### Schematic of second design and S-parameter simulation:
+<img width="679" height="462" alt="image" src="https://github.com/user-attachments/assets/6e66162b-4983-4be2-b694-4da1bb6e78f0" />
+
+<img width="672" height="361" alt="image" src="https://github.com/user-attachments/assets/3ebc76e2-d1a8-4b65-8729-bf8aadd03738" />
+
+### Tuned circuit and S-parameter output:
+<img width="715" height="421" alt="image" src="https://github.com/user-attachments/assets/7f8dce34-ae0b-4968-a9d8-55fcc7c389e9" />
+
+<img width="660" height="341" alt="image" src="https://github.com/user-attachments/assets/f4b47a9c-b408-4d70-ba3f-590e4a0bfa85" />
+
+### Layout and EM simulation
+<img width="700" height="428" alt="image" src="https://github.com/user-attachments/assets/5c0649d8-bfd9-4f4d-abeb-5853588f93ca" />
+
+<img width="673" height="347" alt="image" src="https://github.com/user-attachments/assets/6fed30e9-7613-42cc-ad4c-bbf01d4c9601" />
