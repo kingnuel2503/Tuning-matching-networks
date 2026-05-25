@@ -95,4 +95,4 @@ A full 2.5D planar electromagnetic layout simulation was conducted for Circuit 2
 
 ## Software Used
 * **Keysight Advanced Design System (ADS):** Schematic Simulation, LineCalc, and Layout Generation.
-* **ADS Momentum
+* ADS Momentum
