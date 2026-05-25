@@ -25,6 +25,7 @@ Since a shunt topology modifies admittance, the normalized load impedance is con
 $$\bar{y}_L = 0.3 - j0.24$$
 
 Rotating toward the generator on the Smith Chart reveals two valid intersection points with the $1 + jb$ circle, yielding two distinct design solutions.
+
 <img width="554" height="575" alt="image" src="https://github.com/user-attachments/assets/f4255e71-7540-4151-9840-ebae0eb9191e" />
 
 <img width="486" height="546" alt="image" src="https://github.com/user-attachments/assets/e57dce2b-dd76-4ace-96c7-7b794d655521" />
